@@ -1,9 +1,10 @@
-### Hi there 👋
 
-<!--
-**zxcpapa00/zxcpapa00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <h1>Hi there👋, I'm Evgeniy</h1>
+  <h3>Backend Developer from Russia, Kalinigrad</h3>
+</div>
 
-Here are some ideas to get you started:
+##About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,8 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<div id="header" align="center">
-  <h1>Hi there, I'm Evgeniy</h1>
-  <h3>Backend Developer from Russia, Kalinigrad</h3>
-</div>
