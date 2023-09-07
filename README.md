@@ -4,7 +4,7 @@
   <h3>Backend Developer from Russia, Kalinigrad</h3>
 </div>
 
-##About me:
+### About me:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
